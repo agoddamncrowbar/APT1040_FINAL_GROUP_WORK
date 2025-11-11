@@ -148,7 +148,7 @@ For inquiries about solar energy solutions or website support:
 - Visit the Contact page on the website
 - Use the contact form to reach out directly
 
----
+Github Pages Link: https://sngueny.github.io/apt1040_final_group_work/
 
 **Last Updated**: November 11, 2025
 
