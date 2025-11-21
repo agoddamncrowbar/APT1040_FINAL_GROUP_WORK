@@ -20,7 +20,9 @@ Solar Consult is a responsive, multi-page website built with HTML, CSS, and Java
 ```
 solar-consult/
 │
-├── README.md                          # Project documentation (this file)
+├── documentation/
+│   └── README.md                      # Project documentation
+│
 ├── index.html                         # Home page
 ├── about.html                         # About page
 ├── consult.html                       # Consultation page
@@ -150,5 +152,4 @@ For inquiries about solar energy solutions or website support:
 
 Github Pages Link: https://sngueny.github.io/apt1040_final_group_work/
 
-**Last Updated**: November 11, 2025
-
+**Last Updated**: November 22, 2025
